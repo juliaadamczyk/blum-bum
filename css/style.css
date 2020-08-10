@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;600;700&family=Mukta:wght@300;400;500;600&display=swap" rel="stylesheet');
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/header.css');
+@import url('components/footer.css');
+
+
+body{
+	font-family: 'Mukta', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	margin: 0px;
+	background-color: #F8F6F7; 
+}
+
+h1,h2,h3 {
+	font-family: 'Cormorant Upright', serif;
+	font-size: 42px;
+}
+
+h2,h3{
+	font-size: 30px
+}

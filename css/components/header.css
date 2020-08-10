@@ -1,0 +1,20 @@
+.header{
+	display: flex;
+	flex-wrap: wrap;
+	background: #F8F6F7; 
+	padding: 0px 50px;
+	padding-top: 10px;
+	padding-right: 50px;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 4px;
+	margin: 0px 0px;
+	flex-basis: 200px;
+	flex-grow: 1;
+}
+
+#logo{
+	position: left;
+	height: 150px;
+}
+
