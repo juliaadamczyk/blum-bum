@@ -1,4 +1,4 @@
-# blum-bum
+# Blum Bum
 
 This is a sample landing page created during Le Wagon web development course.
 
